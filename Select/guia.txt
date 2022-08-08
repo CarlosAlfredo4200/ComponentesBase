@@ -1,0 +1,5 @@
+Intalar:
+
+npm i react-select
+
+https://www.youtube.com/watch?v=3lpVqgLh7vw&ab_channel=C%C3%B3digoAV
